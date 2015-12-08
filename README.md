@@ -1,4 +1,4 @@
-# Numerical-Analysis
+# Numerical Analysis
 Some common numerical methods in python.
 ***
 Including variations of;
